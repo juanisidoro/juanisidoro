@@ -135,7 +135,3 @@ Versatilidad, compromiso y autenticidad me definen.
 [![Email Personal](https://img.shields.io/badge/-juan.isidoro.gc@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:juan.isidoro.gc@gmail.com)  
 [![Email Profesional](https://img.shields.io/badge/-juanisidoro.garcia@afiliacionglobal.com-darkgreen?style=flat-square&logo=maildotru&logoColor=white)](mailto:juanisidoro.garcia@afiliacionglobal.com)  
 [![Instagram](https://img.shields.io/badge/-@isi.gc-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/isi.gc/)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=juanisidoro&show_icons=true&theme=radical" />
-</p>
