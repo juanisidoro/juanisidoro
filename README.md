@@ -4,7 +4,7 @@
 > ⚡ **Entre el código y la conciencia, soy puente.**  
 > Creador entre dos mundos: el que se ve y el que se siente.
 
-Desarrollador **Full Stack autodidacta**, **creador multidimensional**, **aprendiz perpetuo**, **sembrador de posibilidades** y **transmutador de sabiduría interior**.  
+Desarrollador **Full Stack autodidacta**, **aprendiz perpetuo**, **sembrador de posibilidades** y **transmutador de sabiduría interior**.  
 Tengo mente analítica, alma técnica y visión estratégica.
 
 A veces con certeza, otras con dudas, camino entre el código, el diseño de sistemas, el cuerpo en movimiento y las ideas que, cuando resuenan, despiertan propósito en mí… y en otros.
